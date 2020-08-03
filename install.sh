@@ -456,7 +456,7 @@ function menu_main(){
 	17 60 9 \
 	"1" "UPS GPIO [ $GPIO ]" \
 	"2" "LED Brightness [ $BRIGHTNESS_MENU ]" \
-	"3" "Poweoff power [ <$POWEROFF_POWER% ]" \
+	"3" "Poweroff power [ <$POWEROFF_POWER% ]" \
 	"4" "Auto run script [ $SERVICEENABLED ]" \
 	"5" "Safe shutdown [ $SAFESHUTDOWN ]" \
 	"6" "Apply Settings" \

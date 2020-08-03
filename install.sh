@@ -75,7 +75,7 @@ function brightness_to_percent(){
 	esac
 }
 
-function percnet_to_brightness() {
+function percent_to_brightness() {
 	case $1 in
 		0)
 		return 0
@@ -522,7 +522,7 @@ do
 		2)
 		menu_brightness
 		PERCENT=$?
-		percnet_to_brightness $PERCENT
+		percent_to_brightness $PERCENT
 		BRIGHTNESS=$?
 		BRIGHTNESS_MENU=$PERCENT"%"
 		;;

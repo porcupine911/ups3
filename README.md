@@ -1,7 +1,7 @@
 # ups3
 This repository is a fork from the original 
 [Raspberry Pi UPS HAT V3](https://github.com/geekworm-com/ups3) 
-repository with the focus of making it compatible with python3.
+repository with a focus on fixing spelling and grammar errors.
 
 Owners email contact: sp@geekworm.com
 # Test
@@ -22,7 +22,7 @@ sudo ./install.sh
                │                                                          │
                │                 1 UPS GPIO [ 18 ]                        │
                │                 2 LED Brightness [ 10% ]                 │
-               │                 3 Poweoff power [ <5% ]                  │
+               │                 3 Poweroff power [ <5% ]                 │
                │                 4 Auto run script [ enabled ]            │
                │                 5 Safe shutdown [ enabled ]              │
                │                 6 Apply Settings                         │
